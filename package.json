@@ -1,0 +1,18 @@
+{
+  "name": "raji",
+  "version": "1.0.0",
+  "description": "its an 1st node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajnandini",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^15.0.4",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

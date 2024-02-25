@@ -1,0 +1,8 @@
+what is node js
+- this is runtime envoirmnet for javascript which run in server
+this is working on asyncronus non-blocking i/o modal
+
+node index - command for run nodejs project in console window
+- if you to intialize project as node project the following npm commands are
+ npm init 
+  npm i --save-dev nodemon - install nodemon for development mode only
